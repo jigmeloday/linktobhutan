@@ -6505,7 +6505,9 @@ button.bg-dark:focus {
   display: block;
   content: "";
 }
-
+.image-cursol{
+    object-fit: cover;
+}
 .embed-responsive .embed-responsive-item,
 .embed-responsive iframe,
 .embed-responsive embed,
